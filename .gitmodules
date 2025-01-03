@@ -6,7 +6,7 @@
 	url = https://github.com/jermp/cmd_line_parser.git
 [submodule "external/cmph"]
 	path = external/cmph
-	url = https://github.com/bonitao/cmph
+	url = https://github.com/rurban/cmph
 [submodule "external/emphf"]
 	path = external/emphf
 	url = https://github.com/ot/emphf
